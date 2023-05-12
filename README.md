@@ -4,7 +4,7 @@
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/lucas-campos-b26a3b204/ <br/>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lucasoliveiracampos81@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascmpos&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucascmpos&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
