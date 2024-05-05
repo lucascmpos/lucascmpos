@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Freelances Projects<br>
+🔭 I’m currently have 2 years of experience as Front End Developer<br>
 📫 How to reach me **lucasoliveiracampos81@gmail.com**<br>
 ⚡ I like to go to the gym to solve the bug of the day
 
