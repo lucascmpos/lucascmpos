@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Campos</h1>
-<h3 align="center">I am a Front End Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Freelances Projects<br>
