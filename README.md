@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Freelances Projects<br>
 📫 How to reach me **lucasoliveiracampos81@gmail.com**<br>
-⚡ Fun fact **i like to go to the gym to solve the bug of the day**
+⚡ I like to go to the gym to solve the bug of the day
 
 
 ## 🌐 Socials:
